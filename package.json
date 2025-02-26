@@ -17,5 +17,8 @@
     "url": "https://github.com/NobleAbraham111/crm-project/issues"
   },
   "homepage": "https://github.com/NobleAbraham111/crm-project#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
