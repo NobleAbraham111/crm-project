@@ -8,4 +8,4 @@ node_modules/
 *.log
 
 # Ignore system files
-.DS_Store
+.DS_Storegit fetch origin
